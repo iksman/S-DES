@@ -1,7 +1,3 @@
-#key = int(input("Key ?>"),2)
-#choice = input("1= encrypt, 2= decrypt ?>")
-#string = int(input("Input text ?>"),2)
-
 def permutate(permeation, inp):
     result = ""
 
